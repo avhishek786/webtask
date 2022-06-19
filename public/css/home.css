@@ -1,0 +1,84 @@
+#avhi
+{
+    margin-left:55px;padding-left: 10px;
+    width:100px;margin-top: 20px;
+    height:60px;
+    border-radius: 10px;
+    background-color:lightgray;
+    color:black;
+}
+#bb
+{
+    margin-left:500px;
+}
+#tele
+{
+    background-color:skyblue;
+
+    text-decoration:none;
+    color:black;
+    font-size: 20px;
+    height:40px;width:200px;
+    border-radius:10px;
+    content: center;
+    padding-top: 5px;padding-left: 15px;
+    margin-right: 10px;
+}
+#buy
+{
+    background-color:lightgray;
+    color:black; font-size:20PX;
+    height:60px; width:100px;
+    border-radius:10px;
+    content: center;margin-top:20px;
+    padding-top:15px;margin-left:50px;
+}
+
+#bg
+{
+    color:solid black;
+    border-radius: 10px;
+}
+#button
+{
+    border-radius: 10px;
+    margin-top: -10px;
+    height:30px;
+}
+#b1
+{
+    background-color: black;
+}
+.table
+{
+    background-color: gray;
+}
+#btn
+{
+    background-color:lightgray;
+    color:black; font-size:20PX;
+    height:60px; width:100px;
+    border-radius:10px;
+    content: center;margin-top:20px;
+    padding-top:5px;margin-left:0px;
+}
+#avhi1{
+    padding-left: 20px;
+    width:100px;margin-top: 20px;
+    height:60px;
+    border-radius: 10px;
+    background-color:lightgray;
+    color:black;
+}
+#aaa
+{
+    background-color:skyblue;
+    
+    color:black;
+    font-size: 10px;
+    height:40px;width:60px;
+    border-radius:10px;
+    content: center;
+    padding-top:2px;padding-left:2px;
+    margin-bottom: 15px;
+}
